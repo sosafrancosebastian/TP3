@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: calc(100w - (100vw - 100%));
+    font-size: 14px;
+    background-color: #c0d6ec;
+}

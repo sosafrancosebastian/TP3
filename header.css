@@ -1,0 +1,30 @@
+header {
+    background-color: #0b3c5d;
+    padding: 16px 32px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav li {
+    padding: 4px 8px;
+    transition: background-color .5s;
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+header nav ul li:hover {
+    background-color: #476a85;
+}
+
