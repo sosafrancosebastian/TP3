@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body main h2 {
+    align-items: center;
+}
+
+body main div {
+    background-color: #328cc1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+body main div button {
+    width: 30px;
+    height: 30px;
+}
+
+body main div img {
+    width: 70px;
+    height: 70px;
+}
+
+body main h3 {
+    justify-content: right;
+}
